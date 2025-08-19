@@ -1,0 +1,3 @@
+Nom,Prenom,SamAccountName,MDP,OU
+Dupont,Jean,jdupont,Beweb.1234,"OU=Utilisateurs,DC=sete,DC=local"
+Martin,Claire,cmartin,Beweb.1234,"OU=Utilisateurs,DC=sete,DC=local"
